@@ -4,7 +4,7 @@
 
 ## ローカライズ
 
-このリポジトリは、[GitLocalize](https://gitlocalize.com/)をローカライザーサービスとして採用しています。
+このリポジトリは、[GitLocalize](https://gitlocalize.com/repo/946)をローカライザーサービスとして採用しています。
 このため、GitLocalizeを利用せずに作成されたローカライズのプルリクエストはリジェクトされる場合があります。
 
 ## ライセンス
